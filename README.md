@@ -1,5 +1,7 @@
 Hi there 👋
 
+<img align="right" width="250" height="350" src="https://user-images.githubusercontent.com/55532613/148978562-6616cba0-f7ab-40ef-b993-99e3bd8c1bf7.jpg">
+
 - 🔭 I’m currently working on Mg Corrosion Mechanism with DFT
 - 🌱 I’m currently learning VASP
 - 👯 I’m looking to collaborate on Mg Corrosion
@@ -11,5 +13,5 @@ Hi there 👋
 - 🎡 Location: London
 
 
-< img align="right" width="250" height="250" src="https://user-images.githubusercontent.com/55532613/148978562-6616cba0-f7ab-40ef-b993-99e3bd8c1bf7.jp">
+
 
