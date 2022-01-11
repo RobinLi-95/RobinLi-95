@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**RobinLi-95/RobinLi-95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hi there 👋
 
 - 🔭 I’m currently working on Mg Corrosion Mechanism with DFT
 - 🌱 I’m currently learning VASP
@@ -14,4 +9,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Unknown
 - ⚡ Fun fact: I Love Diabolo!
 - 🎡 Location: London
--->
+
+
+![regicide](https://user-images.githubusercontent.com/55532613/148978562-6616cba0-f7ab-40ef-b993-99e3bd8c1bf7.jpg)
