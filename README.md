@@ -11,4 +11,5 @@ Hi there 👋
 - 🎡 Location: London
 
 
-![regicide](https://user-images.githubusercontent.com/55532613/148978562-6616cba0-f7ab-40ef-b993-99e3bd8c1bf7.jpg)
+< img align="right" width="250" height="250" src="https://user-images.githubusercontent.com/55532613/148978562-6616cba0-f7ab-40ef-b993-99e3bd8c1bf7.jp">
+
