@@ -7,7 +7,7 @@ Hi there 👋
 - 👯 I’m looking to collaborate on Mg Corrosion
 - 🤔 I’m looking for help with CP2K/QE/VASP/CASTEP
 - 💬 Ask me about 🙆🏻‍♂️
-- 📫 How to reach me: bingxin.li18@imperial.ac.uk
+- 📫 How to reach me: bingxin.li18@imperial.ac.uk/bingxinli0622@gmail.com
 - 😄 Pronouns: Unknown
 - ⚡ Fun fact: I Love Diabolo!
 - 🎡 Location: London
