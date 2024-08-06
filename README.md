@@ -10,7 +10,7 @@ Hi there 👋
 - 📫 How to reach me: b.li@mpie.de/bingxinli0622@gmail.com
 - 😄 Pronouns: Unknown
 - ⚡ Fun fact: I Love Diabolo!
-- 🎡 Location: London/Dusseldorf
+- 🎡 Location: London/Dusseldorf/Paris/Xi'an
 - 🇫🇷 Language: Je parle un petit peu français et J'ai vécu à Paris pendant six mois!
   
 
