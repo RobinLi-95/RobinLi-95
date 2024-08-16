@@ -1,6 +1,7 @@
 Hi there 👋
 
-<img align="right" width="250" height="350" src="https://user-images.githubusercontent.com/55532613/148978562-6616cba0-f7ab-40ef-b993-99e3bd8c1bf7.jpg">
+<img align="right" width="300" alt="Mg_Water_Interface" src="https://github.com/user-attachments/assets/9af8599c-adac-45e7-8908-ca67091578d0">
+
 
 - 🔭 I’m currently working on High Entropy Alloys (HEAs) & Water Interface with DFT
 - 🌱 I’m currently learning VASP/R/CPP/ML/Pyiron
