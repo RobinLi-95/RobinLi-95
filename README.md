@@ -9,7 +9,7 @@ Hi there 👋
 - 🤔 I’m looking for and providing help with **CP2K/QE/VASP/CASTEP/Pyiron**
 - 💬 Ask me about 🙆🏻‍♂️
 - 📫 How to reach me: b.li@mpie.de/bingxinli0622@gmail.com
-- 😄 Pronouns: Unknown
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Love Mario Kart 8!
 - 🎡 Location: London/Dusseldorf/Paris/Xi'an
 - 🇫🇷 Language: Je parle un petit peu français et J'ai vécu à Paris pendant six mois!
