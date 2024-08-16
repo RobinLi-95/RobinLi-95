@@ -1,6 +1,6 @@
 Hi there 👋
 
-<img align="right" width="300" alt="Mg_Water_Interface" src="https://github.com/user-attachments/assets/9af8599c-adac-45e7-8908-ca67091578d0">
+<img align="right" width="450" alt="Mg_Water_Interface" src="https://github.com/user-attachments/assets/9af8599c-adac-45e7-8908-ca67091578d0">
 
 
 - 🔭 I’m currently working on High Entropy Alloys (HEAs) & Water Interface with DFT
