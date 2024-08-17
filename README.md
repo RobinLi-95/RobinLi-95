@@ -13,6 +13,7 @@ Hi there 👋
 - ⚡ Fun fact: I Love Mario Kart 8!
 - 🎡 Location: London/Dusseldorf/Paris/Xi'an
 - 🇫🇷 Language: Je parle un petit peu français et J'ai vécu à Paris pendant six mois!
+- 🇩🇪 Language: Ich lerne derzeit Deutsch...
   
 
 
