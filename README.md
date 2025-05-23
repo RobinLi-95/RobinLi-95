@@ -10,7 +10,7 @@ Hi there 👋
 - 💬 Ask me about 🙆🏻‍♂️
 - 📫 How to reach me: b.li@mpie.de/bingxinli0622@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I Love Mario Kart 8!
+- ⚡ Fun fact: I Love Mario Kart 8! && Coffee Making
 - 🎡 Location: London/Dusseldorf/Paris/Xi'an
 - 🇫🇷 Language: Je parle un petit peu français et J'ai vécu à Paris pendant six mois!
 - 🇩🇪 Language: Ich lerne derzeit Deutsch...
