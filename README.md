@@ -4,7 +4,7 @@
 
 - 🔭 Currently working on **AI for Science (AI4S), Computational Materials Science & Intelligent Agents for Materials Discovery**
 - 🧪 Exploring **Materials Foundation Models, Machine Learning for Materials Science, and Multiscale Simulations**
-- ⚡ Developing AI agents for **Solid-State Battery Materials Discovery, Structure Prediction & Computational Workflows**
+- ⚡ Developing AI agents for **Materials Discovery, Structure Prediction & Computational Workflows**
 - 👨‍🔬 Research background in **DFT, AIMD, Metal Corrosion, High-Entropy Alloys (HEAs) & Metal–Water Interfaces**
 - 🤝 Interested in collaborations on **AI4S, Materials Informatics, Computational Materials Science, Corrosion & Energy Materials**
 - 🛠️ Working with **Python, VASP, Pyiron, ML/AI, and AI Agent Frameworks**
